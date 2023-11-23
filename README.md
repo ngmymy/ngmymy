@@ -11,5 +11,5 @@ Hi there! I'm a 3rd-year computer science student at the University of Minnesota
 - 📈 Stock Plotter and Analyzer
 - ♦️ Uno War Game
 
-## 🛠️ Lanuguages and Tools
+## 🛠️ Languages and Tools
 Python | Java | C | JavaScript | React | NodeJs | Next.js | HTML | CSS | OCaml | MySQL
