@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=800&random=false&width=435&lines=%E2%AD%90+Hi+I'm+My+My+;%F0%9F%92%BB+Computer+Science+'25+;%F0%9F%92%A1+Aspiring+Software+Engineer+)](https://git.io/typing-svg)
+## 🧸 About Me
+Hi there! I'm a 3rd-year computer science student at the University of Minnesota, Twin Cities. Since I was 14 years old, I've always had a passion for anything and everything tech. So what better way than to be at the forefront of development itself?
 
-<!--
-**ngmymy/ngmymy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently seeking Software Internship opportunities for Summer '24!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 Projects
+- 🌐 Personal Website ( In Progress... )
+- 🟪 Tetris ( In Progress... )
+- 📈 Stock Plotter and Analyzer
+- ♦️ Uno War Game
+
+## 🛠️ Lanuguages and Tools
+Python | Java | C | JavaScript | React | NodeJs | Next.js | HTML | CSS | OCaml | MySQL
