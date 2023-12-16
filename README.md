@@ -8,6 +8,7 @@ Hi there! I'm a 3rd-year computer science student at the University of Minnesota
 ## 👩🏻‍💻 Projects
 - 🌐 Personal Website ( In Progress... )
 - 🟪 Tetris ( In Progress... )
+- 💬 BlirbChat Microblogging Website
 - 📈 Stock Plotter and Analyzer
 - ♦️ Uno War Game
 
