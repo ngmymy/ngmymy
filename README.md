@@ -2,7 +2,7 @@
 ## 🧸 About Me
 Hi there! I'm a 3rd-year computer science student at the University of Minnesota, Twin Cities. Since I was 14 years old, I've always had a passion for anything and everything tech. So what better way than to be at the forefront of development itself?
 
-💼 Currently seeking Software Internship opportunities for Summer '24!
+💼 Currently seeking Software Internship opportunities!
 
 
 ## 👩🏻‍💻 Projects
