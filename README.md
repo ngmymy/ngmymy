@@ -2,8 +2,8 @@
 ## 🧸 About Me
 Hi there! I'm a senior computer science student at the University of Minnesota, Twin Cities.
 
-💼 Software Engineer Intern @ KEB America
-🎓 Expected Graduation Spring 2025
+💼 Was a Software Engineer Intern @ KEB America
+🎓 Graduated Spring 2025
 
 
 ## 👩🏻‍💻 Projects
